@@ -1,4 +1,4 @@
-package com.aulamc.cursomc.domain;
+package com.aulamc.cursomc.domain.enums;
 
 public enum TipoCliente {
 	PESSOAFISICA(1,"Pessoa Física"),
